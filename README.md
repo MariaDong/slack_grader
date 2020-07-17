@@ -16,8 +16,7 @@ SETUP:
 If you're using the free version of Slack, you can ONLY export from public 
 channels.
 
-To export from slack, you can go to https://monsters-chat.slack.com/services/export.
-If for some reason that link breaks, here's the long way around:
+To export from slack:
 
 1. Click on the workspace name at the top left corner of the screen, then 
 select "Administration" from the menu, followed by "Workspace settings."
