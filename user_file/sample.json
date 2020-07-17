@@ -1,5 +1,47 @@
 [
     {
+        "id": "U017AM3BBFV",
+        "team_id": "T016VCPQJH5",
+        "name": "kolaheywardrotimi",
+        "deleted": false,
+        "color": "e7392d",
+        "real_name": "Kola Heyward-Rotimi",
+        "tz": "America\/New_York",
+        "tz_label": "Eastern Daylight Time",
+        "tz_offset": -14400,
+        "profile": {
+            "title": "",
+            "phone": "",
+            "skype": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "real_name_normalized": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "display_name_normalized": "Kola Heyward-Rotimi",
+            "fields": null,
+            "status_text": "",
+            "status_emoji": "",
+            "status_expiration": 0,
+            "avatar_hash": "ga0d3941fbb4",
+            "email": "kolaheywardrotimi@gmail.com",
+            "image_24": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+            "image_32": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-32.png",
+            "image_48": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-48.png",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "image_192": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-192.png",
+            "image_512": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-512.png",
+            "status_text_canonical": "",
+            "team": "T016VCPQJH5"
+        },
+        "is_admin": false,
+        "is_owner": false,
+        "is_primary_owner": false,
+        "is_restricted": false,
+        "is_ultra_restricted": false,
+        "is_bot": false,
+        "is_app_user": false,
+        "updated": 1595010302
+    },
+    {
         "id": "U01800E6L3S",
         "team_id": "T016VCPQJH5",
         "name": "maria",
@@ -83,6 +125,6 @@
         "is_ultra_restricted": false,
         "is_bot": false,
         "is_app_user": false,
-        "updated": 1595001760
+        "updated": 1595014966
     }
 ]

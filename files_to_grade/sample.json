@@ -1,0 +1,1561 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1595001631.000200",
+        "user": "U01800E6L3S",
+        "text": "<@U01800E6L3S> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1595001761.000500",
+        "user": "U01800H0VAL",
+        "text": "<@U01800H0VAL> has joined the channel"
+    },
+    {
+        "client_msg_id": "8ff06174-b494-4fdb-92da-a9e52b1f5b91",
+        "type": "message",
+        "text": "Hi everyone, welcome to the Monsterchat Test channel to set up a potential slack autograder. Please talk about whatever nonnsense here so i have sample data to parse.",
+        "user": "U01800E6L3S",
+        "ts": "1595001835.001100",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "gfa1e48f8784",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa1e48f87847bbe748393f3d002a5c37.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Maria",
+            "real_name": "Maria Dong",
+            "display_name": "",
+            "team": "T016VCPQJH5",
+            "name": "maria",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l8wuE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone, welcome to the Monsterchat Test channel to set up a potential slack autograder. Please talk about whatever nonnsense here so i have sample data to parse."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0064e359-701e-4582-a313-f03409c05eba",
+        "type": "message",
+        "text": "Hello",
+        "user": "U01800H0VAL",
+        "ts": "1595001843.001300",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "g3e8d76fbc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3e8d76fbc1546277964891d76aa41e8a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Steve Westenra",
+            "display_name": "Steve Westenra",
+            "team": "T016VCPQJH5",
+            "name": "stevehughwestenra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HE0EE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b633152c-486d-4cb1-988d-be6492f1e1cf",
+        "type": "message",
+        "text": "Hi steve how are you",
+        "user": "U01800E6L3S",
+        "ts": "1595002328.001600",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "gfa1e48f8784",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa1e48f87847bbe748393f3d002a5c37.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Maria",
+            "real_name": "Maria Dong",
+            "display_name": "",
+            "team": "T016VCPQJH5",
+            "name": "maria",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UzoFs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi steve how are you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "48742c89-7016-42d1-ac31-22ff2fd7ca80",
+        "type": "message",
+        "text": "Let's make some sample data weeeeeeeeeee",
+        "user": "U01800E6L3S",
+        "ts": "1595002337.001800",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "gfa1e48f8784",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa1e48f87847bbe748393f3d002a5c37.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Maria",
+            "real_name": "Maria Dong",
+            "display_name": "",
+            "team": "T016VCPQJH5",
+            "name": "maria",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Yso",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's make some sample data weeeeeeeeeee"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "76842fec-f90a-4526-9569-c58609d386e3",
+        "type": "message",
+        "text": "What's up, I am some sample data",
+        "user": "U01800E6L3S",
+        "ts": "1595002784.002200",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "gfa1e48f8784",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa1e48f87847bbe748393f3d002a5c37.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Maria",
+            "real_name": "Maria Dong",
+            "display_name": "",
+            "team": "T016VCPQJH5",
+            "name": "maria",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ssT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What's up, I am some sample data"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "913f8063-a07b-4f96-b805-651775dfbd26",
+        "type": "message",
+        "text": "sample sample sample sample sample",
+        "user": "U01800E6L3S",
+        "ts": "1595002787.002400",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "gfa1e48f8784",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa1e48f87847bbe748393f3d002a5c37.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Maria",
+            "real_name": "Maria Dong",
+            "display_name": "",
+            "team": "T016VCPQJH5",
+            "name": "maria",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YEwR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sample sample sample sample sample"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f70a6858-c24b-4fb6-8024-fe3d24874053",
+        "type": "message",
+        "text": "blah blah blah",
+        "user": "U01800H0VAL",
+        "ts": "1595004075.002600",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "g3e8d76fbc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3e8d76fbc1546277964891d76aa41e8a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Steve Westenra",
+            "display_name": "Steve Westenra",
+            "team": "T016VCPQJH5",
+            "name": "stevehughwestenra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vy0y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "blah blah blah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1595010302.002800",
+        "user": "U017AM3BBFV",
+        "text": "<@U017AM3BBFV> has joined the channel"
+    },
+    {
+        "client_msg_id": "735fcb0a-dba9-47cb-97f4-b6d49df8e598",
+        "type": "message",
+        "text": "一",
+        "user": "U017AM3BBFV",
+        "ts": "1595010336.003000",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rntHt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3b15aac1-c292-4a9b-a234-8be6191f6925",
+        "type": "message",
+        "text": "二",
+        "user": "U017AM3BBFV",
+        "ts": "1595010338.003200",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uf15",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "二"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a0b68d7b-3d4c-474e-9e7a-563a7620f843",
+        "type": "message",
+        "text": "三",
+        "user": "U017AM3BBFV",
+        "ts": "1595010340.003400",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wcE\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "三"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8f7ce6c5-aaf9-4411-bb2f-363c5b13aa40",
+        "type": "message",
+        "text": "四",
+        "user": "U017AM3BBFV",
+        "ts": "1595010343.003700",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lOjSl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "四"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f1bcbbdc-c4ec-4a2f-9f9c-1213839573aa",
+        "type": "message",
+        "text": "五",
+        "user": "U017AM3BBFV",
+        "ts": "1595010344.003900",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9af",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "五"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0747b304-c91f-4469-91d4-f7aaacf2f44e",
+        "type": "message",
+        "text": "六",
+        "user": "U017AM3BBFV",
+        "ts": "1595010350.004200",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pL6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "六"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d2d295b0-df6e-4e38-a2e0-4ad7f07c38c3",
+        "type": "message",
+        "text": "七",
+        "user": "U017AM3BBFV",
+        "ts": "1595010352.004400",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OMRs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "七"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d7ea144-55eb-4e07-8dca-e8abcfa997f7",
+        "type": "message",
+        "text": "八",
+        "user": "U017AM3BBFV",
+        "ts": "1595010355.004600",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X1P+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "八"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7be84a77-bc87-40ad-84b4-b447ec6fd029",
+        "type": "message",
+        "text": "九",
+        "user": "U017AM3BBFV",
+        "ts": "1595010356.004800",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vOH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "九"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc7460ab-ffa7-4fa1-b498-1935da4bb50b",
+        "type": "message",
+        "text": "十",
+        "user": "U017AM3BBFV",
+        "ts": "1595010360.005000",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iXq5R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "十"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90dc6ae1-0543-4f42-bbc1-6dc8a616eeb5",
+        "type": "message",
+        "text": "十一",
+        "user": "U017AM3BBFV",
+        "ts": "1595010474.005300",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EwKe6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "十一"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3f5452ce-b588-41bd-8f9d-d5787c784f6c",
+        "type": "message",
+        "text": "十二",
+        "user": "U017AM3BBFV",
+        "ts": "1595010477.005500",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NrV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "十二"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8de1a79a-12e9-4658-81f7-8bd4e635abd1",
+        "type": "message",
+        "text": "十三",
+        "user": "U017AM3BBFV",
+        "ts": "1595010480.005700",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y\/6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "十三"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7e710847-06c6-4bd5-aa05-84e16e22e62b",
+        "type": "message",
+        "text": "十四",
+        "user": "U017AM3BBFV",
+        "ts": "1595010482.005900",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZZIzB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "十四"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f7234217-7e74-4f86-ac17-bdb89dd69e19",
+        "type": "message",
+        "text": "十五",
+        "user": "U017AM3BBFV",
+        "ts": "1595010484.006100",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DAhB\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "十五"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1c7f2e37-0f83-4204-a4ce-f019062f9c8d",
+        "type": "message",
+        "text": "十六",
+        "user": "U017AM3BBFV",
+        "ts": "1595010487.006300",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ahr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "十六"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c170f611-9e5f-492f-a7b4-249d5dffd2ed",
+        "type": "message",
+        "text": "十七",
+        "user": "U017AM3BBFV",
+        "ts": "1595010490.006500",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tBB3p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "十七"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ab417ea-a1ac-408f-9933-9d815f1592b1",
+        "type": "message",
+        "text": "十八",
+        "user": "U017AM3BBFV",
+        "ts": "1595010493.006700",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RY7fb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "十八"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25cf9a81-518e-40f9-9501-30a37f58bb6e",
+        "type": "message",
+        "text": "十九",
+        "user": "U017AM3BBFV",
+        "ts": "1595010495.006900",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w9sI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "十九"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "96d6cade-97a8-42b1-a5c2-faa4e2625c9e",
+        "type": "message",
+        "text": "二十",
+        "user": "U017AM3BBFV",
+        "ts": "1595010499.007100",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k53",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "二十"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0b2c1cb0-a96a-437e-8bb7-6046f6179db2",
+        "type": "message",
+        "text": "my god kola am i going to have to decode from utf-8 to unicode for this i hate you",
+        "user": "U01800E6L3S",
+        "ts": "1595014205.007500",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "gfa1e48f8784",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa1e48f87847bbe748393f3d002a5c37.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Maria",
+            "real_name": "Maria Dong",
+            "display_name": "",
+            "team": "T016VCPQJH5",
+            "name": "maria",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vgefj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my god kola am i going to have to decode from utf-8 to unicode for this i hate you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U017AM3BBFV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "04de5e82-6bc7-43ad-b20b-93e022691a2d",
+        "type": "message",
+        "text": "<http:\/\/mariadong.com|I am a link>",
+        "user": "U01800E6L3S",
+        "ts": "1595014329.007700",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "gfa1e48f8784",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa1e48f87847bbe748393f3d002a5c37.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Maria",
+            "real_name": "Maria Dong",
+            "display_name": "",
+            "team": "T016VCPQJH5",
+            "name": "maria",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R8Op2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/mariadong.com",
+                                "text": "I am a link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a753a9b-7e21-4319-8e5f-c95ff4deb0a2",
+        "type": "message",
+        "text": "*i'm some bold text weeeee*",
+        "user": "U01800E6L3S",
+        "ts": "1595014342.007900",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "gfa1e48f8784",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa1e48f87847bbe748393f3d002a5c37.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Maria",
+            "real_name": "Maria Dong",
+            "display_name": "",
+            "team": "T016VCPQJH5",
+            "name": "maria",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iJq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i'm some bold text weeeee",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0173T4R5N2",
+                "created": 1595014495,
+                "timestamp": 1595014495,
+                "name": "20131225_122706.jpg",
+                "title": "20131225_122706.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01800H0VAL",
+                "editable": false,
+                "size": 1534680,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T016VCPQJH5-F0173T4R5N2\/20131225_122706.jpg?t=xoxe-1233431834583-1272715177728-1247502391765-765fd3e979d14ed56715508a72283a87",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T016VCPQJH5-F0173T4R5N2\/download\/20131225_122706.jpg?t=xoxe-1233431834583-1272715177728-1247502391765-765fd3e979d14ed56715508a72283a87",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T016VCPQJH5-F0173T4R5N2-d9535fda95\/20131225_122706_64.jpg?t=xoxe-1233431834583-1272715177728-1247502391765-765fd3e979d14ed56715508a72283a87",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T016VCPQJH5-F0173T4R5N2-d9535fda95\/20131225_122706_80.jpg?t=xoxe-1233431834583-1272715177728-1247502391765-765fd3e979d14ed56715508a72283a87",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T016VCPQJH5-F0173T4R5N2-d9535fda95\/20131225_122706_360.jpg?t=xoxe-1233431834583-1272715177728-1247502391765-765fd3e979d14ed56715508a72283a87",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T016VCPQJH5-F0173T4R5N2-d9535fda95\/20131225_122706_480.jpg?t=xoxe-1233431834583-1272715177728-1247502391765-765fd3e979d14ed56715508a72283a87",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T016VCPQJH5-F0173T4R5N2-d9535fda95\/20131225_122706_160.jpg?t=xoxe-1233431834583-1272715177728-1247502391765-765fd3e979d14ed56715508a72283a87",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T016VCPQJH5-F0173T4R5N2-d9535fda95\/20131225_122706_720.jpg?t=xoxe-1233431834583-1272715177728-1247502391765-765fd3e979d14ed56715508a72283a87",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T016VCPQJH5-F0173T4R5N2-d9535fda95\/20131225_122706_800.jpg?t=xoxe-1233431834583-1272715177728-1247502391765-765fd3e979d14ed56715508a72283a87",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T016VCPQJH5-F0173T4R5N2-d9535fda95\/20131225_122706_960.jpg?t=xoxe-1233431834583-1272715177728-1247502391765-765fd3e979d14ed56715508a72283a87",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T016VCPQJH5-F0173T4R5N2-d9535fda95\/20131225_122706_1024.jpg?t=xoxe-1233431834583-1272715177728-1247502391765-765fd3e979d14ed56715508a72283a87",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 1920,
+                "original_h": 2560,
+                "thumb_tiny": "AwAwACS2QPtYwB9ylmA3w8Y+agn\/AEtP900TEeZEM\/xUANvNqw88ZapVKGNWABBHpVC8ZgW5PB5z0FTWk0jxOHHCigDOkx5hpmBSufnNNzQBotKGmUxsM7Tg57024LGOI7wGzyc1Sbk\/L+tIcheTSAllkbkN8zZ5bOalt502MuwBiD82apGkBpgSFck5OKTYP736UzNGaQDmwW4Jp2\/aNhUECo6maWM24j2fN\/epgRHrSUHg09XwmMUAMop3XnpRgetAH\/\/Z",
+                "permalink": "https:\/\/monsters-chat.slack.com\/files\/U01800H0VAL\/F0173T4R5N2\/20131225_122706.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T016VCPQJH5-F0173T4R5N2-07c384c746",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U01800H0VAL",
+        "display_as_bot": false,
+        "ts": "1595014498.008000"
+    },
+    {
+        "client_msg_id": "9ce477af-4a56-4800-a283-e4bbaad5a16a",
+        "type": "message",
+        "text": "<@U01800H0VAL> you have a christmas tree up?",
+        "user": "U017AM3BBFV",
+        "ts": "1595014894.008700",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xMk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01800H0VAL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you have a christmas tree up?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "17232832-d6a6-4387-8029-93a622e247bd",
+        "type": "message",
+        "text": "haha",
+        "user": "U01800H0VAL",
+        "ts": "1595014934.008900",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "g3e8d76fbc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3e8d76fbc1546277964891d76aa41e8a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Steve Westenra",
+            "display_name": "Steve Westenra",
+            "team": "T016VCPQJH5",
+            "name": "stevehughwestenra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QqS7o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa573563-3dd7-49c5-a70d-c38194d7e845",
+        "type": "message",
+        "text": "Maria just asked me to upload a photo",
+        "user": "U01800H0VAL",
+        "ts": "1595014941.009200",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "g3e8d76fbc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3e8d76fbc1546277964891d76aa41e8a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Steve Westenra",
+            "display_name": "Steve Westenra",
+            "team": "T016VCPQJH5",
+            "name": "stevehughwestenra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S091V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maria just asked me to upload a photo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "82c8a023-c957-49bf-bab3-50708134c8e2",
+        "type": "message",
+        "text": "So I grabbed the closest one that wasn't a person",
+        "user": "U01800H0VAL",
+        "ts": "1595014950.009500",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "g3e8d76fbc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3e8d76fbc1546277964891d76aa41e8a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Steve Westenra",
+            "display_name": "Steve Westenra",
+            "team": "T016VCPQJH5",
+            "name": "stevehughwestenra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+JJP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So I grabbed the closest one that wasn't a person"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ad27fd64-564a-4885-aafd-43a1c0ae9548",
+        "type": "message",
+        "text": "Good choice, being in the christmas spirit and all",
+        "user": "U017AM3BBFV",
+        "ts": "1595015008.010000",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "ga0d3941fbb4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a0d3941fbb4f84c5a21722c35d6541b4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Kola Heyward-Rotimi",
+            "display_name": "Kola Heyward-Rotimi",
+            "team": "T016VCPQJH5",
+            "name": "kolaheywardrotimi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BPv0=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good choice, being in the christmas spirit and all"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a780c9b-4a77-44d4-9fe2-ac8a5ef474fe",
+        "type": "message",
+        "text": "Yes",
+        "user": "U01800H0VAL",
+        "ts": "1595015064.010200",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "g3e8d76fbc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3e8d76fbc1546277964891d76aa41e8a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Steve Westenra",
+            "display_name": "Steve Westenra",
+            "team": "T016VCPQJH5",
+            "name": "stevehughwestenra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f9VEg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "74e8b41a-f5d9-4521-a1b2-1c1834bde6df",
+        "type": "message",
+        "text": "Seemed relevant",
+        "user": "U01800H0VAL",
+        "ts": "1595015067.010400",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "g3e8d76fbc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3e8d76fbc1546277964891d76aa41e8a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "",
+            "real_name": "Steve Westenra",
+            "display_name": "Steve Westenra",
+            "team": "T016VCPQJH5",
+            "name": "stevehughwestenra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9bNu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Seemed relevant"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595015067.010400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1595021582.010500",
+        "reply_users": [
+            "U01800E6L3S"
+        ],
+        "replies": [
+            {
+                "user": "U01800E6L3S",
+                "ts": "1595021582.010500"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1595021582.010500"
+    },
+    {
+        "client_msg_id": "f158a052-453a-4984-a8a6-5b3f6577c1f6",
+        "type": "message",
+        "text": "im replying in thread to test this functionality later.",
+        "user": "U01800E6L3S",
+        "ts": "1595021582.010500",
+        "team": "T016VCPQJH5",
+        "user_team": "T016VCPQJH5",
+        "source_team": "T016VCPQJH5",
+        "user_profile": {
+            "avatar_hash": "gfa1e48f8784",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa1e48f87847bbe748393f3d002a5c37.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Maria",
+            "real_name": "Maria Dong",
+            "display_name": "",
+            "team": "T016VCPQJH5",
+            "name": "maria",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PWyA5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "im replying in thread to test this functionality later."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1595015067.010400",
+        "parent_user_id": "U01800H0VAL"
+    }
+]

@@ -1,0 +1,61 @@
+REPORT CREATED:
+	2020-07-17-17-45-36
+
+TOTAL USERS:
+	3
+
+LIST OF ALL USERS:
+	Real Name: Kola Heyward-Rotimi, Slack User ID: U017AM3BBFV
+	Real Name: Maria Dong, Slack User ID: U01800E6L3S
+	Real Name: Steve Westenra, Slack User ID: U01800H0VAL
+
+USER COMMENT COUNTS:
+	Kola Heyward-Rotimi	22 comments
+	Maria Dong	9 comments
+	Steve Westenra	7 comments
+
+FULL USER COMMENT BREAKDOWN:
+
+KOLA HEYWARD-ROTIMI:	22 COMMENTS:
+	1. 一
+	2. 二
+	3. 三
+	4. 四
+	5. 五
+	6. 六
+	7. 七
+	8. 八
+	9. 九
+	10. 十
+	11. 十一
+	12. 十二
+	13. 十三
+	14. 十四
+	15. 十五
+	16. 十六
+	17. 十七
+	18. 十八
+	19. 十九
+	20. 二十
+	21. <@U01800H0VAL> you have a christmas tree up?
+	22. Good choice, being in the christmas spirit and all
+
+MARIA DONG:	9 COMMENTS:
+	1. Hi everyone, welcome to the Monsterchat Test channel to set up a potential slack autograder. Please talk about whatever nonnsense here so i have sample data to parse.
+	2. Hi steve how are you
+	3. Let's make some sample data weeeeeeeeeee
+	4. What's up, I am some sample data
+	5. sample sample sample sample sample
+	6. my god kola am i going to have to decode from utf-8 to unicode for this i hate you
+	7. <http://mariadong.com|I am a link>
+	8. *i'm some bold text weeeee*
+	9. im replying in thread to test this functionality later.
+
+STEVE WESTENRA:	7 COMMENTS:
+	1. Hello
+	2. blah blah blah
+	3. haha
+	4. Maria just asked me to upload a photo
+	5. So I grabbed the closest one that wasn't a person
+	6. Yes
+	7. Seemed relevant
