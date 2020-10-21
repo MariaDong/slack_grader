@@ -99,22 +99,3 @@ with open(report_file, 'a', encoding='utf-8', errors='ignore') as working_file:
             comment_text_counter += 1
 print("...Comment Data added to report.")
 print('All reports have been created. Please check the reports folder!')
-
-# # Print each username from dictionary and then print a numbered list of all comments.
-# with open(report_file, 'a', encoding='utf-8', errors='ignore') as working_file:
-#     working_file.write('\nUSER COMMENT COUNTS:')
-#     for user in user_list_real_names:
-#         working_file.write(
-#             f"\n\t{user}\t{comment_data[user]['total comments']} comments")
-#     working_file.write('\n\nFULL USER COMMENT BREAKDOWN:')
-#     for user in user_list_real_names:
-#         running_list = comment_data[user]['comments']
-#         comment_text_counter = 1
-#         working_file.write(
-#             f"\n\n{user.upper()}:\t{comment_data[user]['total comments']} COMMENTS:")
-#         for comment in running_list:
-#             formatted_comment = f"\n\t{comment_text_counter}. {comment}"
-#             working_file.write(formatted_comment)
-#             comment_text_counter += 1
-# print("...Comment Data added to report.")
-# print('All reports have been created. Please check the reports folder!')
