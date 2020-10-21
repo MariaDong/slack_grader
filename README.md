@@ -43,3 +43,5 @@ prompts. The program will create a file with the information you indicate in the
 the report is run (year-month-date-hour-minute-second).txt, which makes it 
 unlikely running a new report would accidentally overwrite the previous report.
 
+Tool by Maria Violante, @ViolanteCodes on github!
+
